@@ -157,7 +157,7 @@ Para más detalles, revisa el archivo `CONTRIBUTING.md`.
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
--
+--
 
 *Si el respositorio te resulta útil, dale una estrella ⭐ en GitHub y seguime en [LinkedIn](https://www.linkedin.com/in/ajsiracusa) y [GitHub](https://github.com/JonatanSiracusa).*
 

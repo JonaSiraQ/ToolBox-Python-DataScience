@@ -50,4 +50,4 @@ If you encounter a bug or have a feature request, please open an issue:
 
 By contributing, you agree that your contributions will be licensed under the MIT License, unless stated otherwise.
 
-Thank you for your contributions! 🚀
+Thank you for your contributions!

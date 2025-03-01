@@ -143,12 +143,12 @@ portfolio-optimization/
 
 ## Contribución
 
-Si deseas contribuir, sigue estos pasos:
+Si deseas contribuir, segui estos pasos:
 
 1. Realiza un fork del repositorio.
 2. Crea una nueva rama (`git checkout -b feature-nueva-funcionalidad`).
 3. Realiza commits con descripciones claras (`git commit -m "Añadir nueva funcionalidad"`).
-4. Envía un Pull Request.
+4. Envia un Pull Request.
 
 Para más detalles, revisa el archivo `CONTRIBUTING.md`.
 
@@ -157,7 +157,7 @@ Para más detalles, revisa el archivo `CONTRIBUTING.md`.
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
----
+
 
 *Si el respositorio te resulta útil, dale una estrella ⭐ en GitHub y seguime en [LinkedIn](https://www.linkedin.com/in/ajsiracusa) y [GitHub](https://github.com/JonatanSiracusa).*
 
